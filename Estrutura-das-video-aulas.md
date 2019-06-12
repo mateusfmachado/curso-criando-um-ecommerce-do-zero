@@ -245,3 +245,7 @@
     Perfil
 #### - Finalizando
     Finalizando e Criando Build final
+
+## Loja Virtual
+
+    Em desenvolvimento
